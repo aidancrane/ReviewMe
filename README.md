@@ -1,5 +1,5 @@
 ## Hello people from the future
-Hello, If you are reading this looking for a plugin for your minecraft server then look elsewhere as this plugin is no longer maintained and is not compatible with minecraft's UUID structure. A good starting point would be [here](https://www.spigotmc.org/resources/reviewme-reloaded.2896/). The original first version of this plugin was released on Aug 13th , 2013! for CraftBukkit 1.6.2. This version is written for CB 1.6.4-R1.0.
+Hello, If you are reading this looking for a plugin for your minecraft server then look elsewhere as this plugin is no longer maintained and is not compatible with minecraft's UUID structure. A good starting point would be [here](https://www.spigotmc.org/resources/reviewme-reloaded.2896/). The original first version of this plugin was released on Aug 13th , 2013! for CraftBukkit 1.6.2. This version is written for CB 1.6.4-R1.0. Other versions can be downloaded from [here](https://dev.bukkit.org/projects/reviewme/files/750024). As you can see this plugin has been downloaded over 1000 times! Thanks for all the support!
 
 I have uploaded this plugin to Github as there are a few copycats. I have therefore decided to make this plugin open source.
 
