@@ -1,0 +1,36 @@
+name: ReviewMe
+main: uk.co.infinityflame.RM
+version: 1.4.0
+commands:
+  rm:
+    description: This is the base of the rm plugin.
+    usage: "Do /rm help for help"
+permissions:
+   reviewme.review:
+     description: Allows players to be reviewed
+     permission-message: You do not have <permission>
+     default: true
+   reviewme.alert:
+     description: This allows players to be alerted if a new build is to be reviewed
+     permission-message: You do not have <permission>
+     default: op
+   reviewme.view:
+     description: Allows players to teleport to locations
+     permission-message: You do not have <permission>
+     default: op
+   reviewme.gethelp:
+     description: Allows players to ask for help
+     permission-message: You do not have <permission>
+     default: op
+   reviewme.list:
+     description: Allows players to list pending completed and denied builds
+     permission-message: You do not have <permission>
+     default: op
+   reviewme.complete:
+     description: Allows players to compete a build
+     permission-message: You do not have <permission>
+     default: op
+   reviewme.deny:
+     description: Allows players to deny a build
+     permission-message: You do not have <permission>
+     default: op
